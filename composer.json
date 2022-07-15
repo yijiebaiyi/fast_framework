@@ -1,0 +1,10 @@
+{
+    "require": {
+      "ext-redis": "*",
+      "ext-memcache": "*",
+      "ext-memcached": "*",
+      "ext-json": "*",
+      "ext-mysqli": "*",
+        "zohocrm/php-sdk": "^3.1"
+    }
+}
